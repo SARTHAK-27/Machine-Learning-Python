@@ -1,0 +1,33 @@
+A A# B C C# D D# E F F# G G#
+
+W W H W W W H
+
+A major scale - A B C# D E F# G
+		1 2 3  4 5 6  7
+	
+Chord Pattern - M m m  M M m  Dim  (chord family)
+
+C major Scale - C D E F G A B
+
+G major Scale - G A B C D E F#
+
+D major Scale - D E F# G A B C#
+
+A major scale - A B C# D E F# G#
+
+E major Scale - E F# G# A B C# D#
+
+B major Scale - B C# D# E F# G# A# 
+
+F major Scale - F G A A# C D E
+
+
+For Pentatonic Scale - 1 2 3 5 6
+
+
+Famous chord pattern - 1 6 4 5 
+
+
+
+
+
